@@ -34,8 +34,10 @@ console.log(`The average is: ${average}`);
 
 ## Navigator (Bob) suggests improvements:
 
-** 1. ** 
+**1.** 
 
+**2.** 
 
+<br/>
 
 ![alt text](image-1.png)
