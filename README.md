@@ -3,15 +3,16 @@
 ![alt text](image.png)
 
 ## Participants:
-Driver: Alice
-Navigator: Bob
+Driver: Raneem
+
+Navigator: Habib
 
 ## Task:
 Create a JavaScript script that assigns a predefined list of numbers, calculates the average, and prints it, using basic code
 
 ## Initial Code Implementation
 
-### Driver (Alice) starts coding:
+### Driver (Raneem) starts coding:
 
 ```
 // Basic code with predefined numbers to calculate the average
@@ -32,12 +33,14 @@ let average = sum / numArray.length;
 console.log(`The average is: ${average}`);
 ```
 
-## Navigator (Bob) suggests improvements:
+## Navigator (Habib) suggests improvements:
 
 **1.** 
 
 **2.** 
 
 <br/>
+
+Then we flip the roles and it goes on. Feel free to take breaks in your pair programming session
 
 ![alt text](image-1.png)

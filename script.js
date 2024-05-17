@@ -8,6 +8,8 @@ let sum = 0;
 for (let i = 0; i < numArray.length; i++) {
     sum += numArray[i];
 }
+// Instead of calculating sum manually, replace it with a reducer function
+
 // Calculate the average
 let average = sum / numArray.length;
 
